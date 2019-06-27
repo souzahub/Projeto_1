@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168028822279",
+    "firebase_url": "https://amigotaxi-f41dd.firebaseio.com",
+    "project_id": "amigotaxi-f41dd",
+    "storage_bucket": "amigotaxi-f41dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168028822279:android:ae3f0971ab90dc3b",
+        "android_client_info": {
+          "package_name": "com.example.mapsactivite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168028822279-m1v4gmhu7ags05jkq32abjq39c08nq0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapsactivite",
+            "certificate_hash": "3e685dadd06dca0bf106cd0ec4740cd6f26862ce"
+          }
+        },
+        {
+          "client_id": "168028822279-fcduumb5qo3nscf7ot16v0i4bomv3t0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw_E0BSBYOabg5CG9QRISytMSN-7gD3Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168028822279-fcduumb5qo3nscf7ot16v0i4bomv3t0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
